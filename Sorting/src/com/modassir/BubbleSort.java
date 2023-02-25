@@ -14,6 +14,11 @@ public class BubbleSort {
         System.out.println(Arrays.toString(arr2));
 
     }
+    static void Insertion(int[] arr){
+
+    }
+
+
     static void selectionSort(int[] arr){
         for(int i=0; i<arr.length; i++){
             // find the max item remaining array and swap with correct index
